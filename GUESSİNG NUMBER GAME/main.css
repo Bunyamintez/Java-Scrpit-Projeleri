@@ -1,0 +1,47 @@
+body{
+    background-color:darkslateblue !important;
+}
+
+h2{
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+
+}
+
+.content{
+    width: 50%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    background-color:darkseagreen;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.heart-red{
+    text-align: right;
+    font-size: 25px;
+    color:red;
+}
+.heart-grey{
+    font-size: 25px;
+    color:#ccc;
+}
+.text-aligin-right{
+    text-align: right;
+}
+
+.btn-purple{
+    background-color:red !important;
+    color: #fff !important;
+}
+
+.btn-hide{
+    display: none !important;
+    margin-top: 30px;
+}
+
+.btn-show{
+    display: inline-block !important;
+    margin-top:30px;
+}
